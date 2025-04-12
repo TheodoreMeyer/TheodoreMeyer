@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Java and Python
+- 🔭 I’m currently working on SimpleVoice-Geyser
+   - This helps bridge Bedrock and Java voice chat through a Browser Page.
