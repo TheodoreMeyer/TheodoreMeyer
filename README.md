@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and Python
 - 🔭 I’m currently working on SimpleVoice-Geyser
    - This helps bridge Bedrock and Java voice chat through a Browser Page.
+
+Note:
+- I will usually not be able to respond on Mondays, Wednesdays, and Fridays.
