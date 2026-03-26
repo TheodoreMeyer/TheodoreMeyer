@@ -1,23 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Theodore Meyer.
+I'm a quick learner just starting his journey.
 
-<!--
-**TheodoreMeyer/TheodoreMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### What I'm up to
 - 🌱 I’m currently learning Java, html, Javascript, and Python.
 - 🔭 I’m currently working on SimpleVoice-Geyser
    - This helps bridge Bedrock and Java voice chat through a Browser Page.
 
-Note:
-- I will usually not be able to respond on Mondays, Wednesdays, and Fridays.
+ <br>
+ 
+### 📊 GitHub Statistics
+Here are some of my stats:
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=theodoremeyer&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=theodoremeyer)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theodoremeyer&layout=compact)
+
+
+> [!NOTE]
+> I am usually unavailable to respond on **Mondays, Wednesdays, and Fridays**.
