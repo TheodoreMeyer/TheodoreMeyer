@@ -9,9 +9,12 @@ I'm a quick learner just starting his journey.
 - My hobbies are: Taekwondo, Programming (as you can see) and a bit more.
 
 ### What I'm up to
-- 🌱 I’m currently learning Java, html, Javascript, and Python.
 - 🔭 I’m currently working on SimpleVoice-Geyser
    - This helps bridge Bedrock and Java voice chat through a Browser Page.
+- Im learning React, JavaScript, and Python
+
+### My programming languages:
+- Java, HTML, and some Javascript
 
  <br>
  
